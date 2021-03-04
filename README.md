@@ -1,2 +1,3 @@
-# riscv-assembly
-A collection of algorithms written in RISC-V Assembly
+# RISC-V Assembly
+
+A collection of algorithms written in RISC-V Assembly.
